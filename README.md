@@ -30,7 +30,7 @@ Download the YOLOv8 (best.pt) weights from below link .
 
 #### Weights
 
-link
+[link](https://drive.google.com/file/d/1kLpQeYHJGMbEORxZI0iNcFVAxmUWAKKi/view?usp=sharing)
 
 
 #### Run the script with the following command:
